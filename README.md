@@ -1,10 +1,11 @@
 # GFT - Desafio Android
 
-Objetivos:
+## Objetivos
 - Resolver o desafio e explicar sua abordagem no momento da entrevista.
 - Discutir as possibilidades de solução durante a entrevista, explicar e exemplificar pontos positivos e negativos fazendo um bate-papo interativo com nossos devs.
 - Obs.: Você pode editar todo o projeto, organização de pastas, módulos e dependências.
 
+## Desafio
 Nossa equipe de Q.A. identificou alguns problemas em nosso aplicativo, e gostaríamos que você nos ajudasse a corrigir. Separamos uma lista de problemas e melhorias que devem ser cumpridos:
 
 - Ao girar a tela do celular, o nosso aplicativo perde o estado atual. Devemos manter o estado.
@@ -18,5 +19,11 @@ Nossa equipe de Q.A. identificou alguns problemas em nosso aplicativo, e gostar�
 - Por termos uma grande equipe, seria de bom agrado nosso app ter testes automatizados.
   - Testes unitários testando a lógica de apresentação, negócios e dados independentemente são importantes para garantir a integridade da aplicação perante pequenas mudanças.
   - Por outro lado, visto que testes unitários não são tão fieis ao dia-a-dia pensando na mudança de ambiente, os testes instrumentados são de suma importância.
+- Gostamos de utilizar o GitFlow. Não é obrigatório, já que você vai ser o unico nesse repositório, mas vamos considerar como um bônus.   
+  
+## Entrega
+- Revise seu código, todos seus *commits* e seu *repositório*. E tenha certeza que você subiu a sua versão final.
+- Faça o *merge* com a **master** e crie uma **tag** com o nome de *ready_for_evaluation*. E é isso. Boa sorte!
+  
 
-Boa sorte!
+
